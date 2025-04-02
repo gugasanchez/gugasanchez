@@ -2,17 +2,15 @@
 
 **`💻 Prisma Tech (Founder/Developer)`**
 
-Passionate about problem-solving since my teenage years, I realized programming and technology were the ideal channels to fulfill these ambitions. 🧠
+I am an entrepreneur and Head of Sales at Prisma Tech, a software development company. Alongside the software projects tailored to our clients, we are developing our startup, SinoAI: the AI agents for prospecting in Brazil.
 
-My dedication to this path led me to academic excellence, securing a place at Universidade de São Paulo (USP), Latin America's premier Computer Engineering School. 🎓
+Passionate about problem-solving since my teenage years, I realized programming and technology were the ideal channels to fulfill my ambitions. My dedication to this path led me to academic excellence, securing a place at Universidade de São Paulo (USP), Latin America's premier Computer Engineering School.
 
-In pursuit of growth, I boldly paused my studies for a year to immerse myself in Grupo Primo, a startup environment where I gained substantial knowledge in sales, marketing, and entrepreneurship. 🌱
+In pursuit of growth, I paused my studies for a year to immerse myself in Grupo Primo, a startup environment where I gained substantial knowledge in sales, marketing, and entrepreneurship.
 
-Returning to USP in early 2023, I was driven by a mission to collaborate with equally talented and ambitious peers. 🤝
+Returning to USP in early 2023, I was driven by a mission to collaborate with equally talented and ambitious peers. This brought me together with long-time friends Pedro Peres and Ryan Viana. Our shared venture into the blockchain and web3 markets led to triumphs in several hackathons, and to begin our partnership in Prisma Tech.
 
-This ambition brought me together with long-time friends Pedro Peres and Ryan Viana. Our shared venture into the blockchain and web3 markets led to triumphs in several hackathons, showcasing our collective capabilities. 🏆
-
-Now, we are at the thrilling inception phase of our startup, Prisma Tech. We aim to utilize our combined skills, ambition, and passion for technology to devise blockchain-based solutions that tackle real-world challenges. 💡
+Currently, I'm leading the acquisition and sales process at Prisma Tech and building SinoAI.
 
 #
 
